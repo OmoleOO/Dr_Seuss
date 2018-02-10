@@ -1,0 +1,22 @@
+.Fox_Socks, .grinch, .Seuss11{
+	background: url(sprites.png) no-repeat;
+}
+
+.Fox_Socks{
+	background-position: 0 0;
+	width: 250px;
+	height: 469px;
+}
+
+.grinch{
+	background-position: -259px 0;
+	width: 375px;
+	height: 450px;
+}
+
+.Seuss11{
+	background-position: -648px -240px ;
+	width: 306px;
+	height: 492px;
+}
+

@@ -1,0 +1,47 @@
+h1 { 
+    font-family: 'Pacifico', cursive;
+    font-size: 45px;
+    margin-top: -49px;
+    text-align: center;
+    color: #0d6783 !important;
+}
+
+/*.jumbotron { background-color: #e91e63; } */
+.story { 
+    font-size: 22px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.wikipedia {
+    font-size: 12px;
+    font-family: 'Pacifico', cursive;
+}
+
+.linear-gradient {
+  background: linear-gradient(to bottom,
+      #030839, #26148b, #4124d9, #e6def7, #f4f4f4);
+}
+
+.fox_socks, .grinch, .seuss{
+	background: url(../images/sprites.png) no-repeat;
+}
+
+.fox_socks{
+	background-position: 0 0;
+	width: 250px;
+	height: 469px;
+/*    margin-top: -100px;*/
+    margin-left: 200px;
+}
+
+.grinch{
+	background-position: -259px 0;
+	width: 375px;
+	height: 450px;
+}
+
+.seuss{
+	background-position: -648px -240px ;
+	width: 306px;
+	height: 492px;
+}
